@@ -1,4 +1,4 @@
-apiVersion: s3.advatys.com/v1alpha1
+apiVersion: s3.onehq.com/v1alpha1
 kind: Bucket
 metadata:
   annotations:
